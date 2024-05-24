@@ -8,9 +8,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)                   
+  - [Built with](#built-with)                   
 - [Author](#author)
 
 
@@ -37,8 +35,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Solution URL: (https://github.com/Son1x-7732/blog-preview-card-main.git)
 - Live Site URL: (https://blog-card7732.netlify.app/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -48,6 +44,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ```
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - (https://www.your-site.com)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername)
+
+**Have fun building!** 🚀
 
